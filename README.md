@@ -21,6 +21,8 @@ La función principal de nuestra API, será abastecer, en tiempo y forma, del ma
 
 ## Diagrama UML
 
+![image](https://user-images.githubusercontent.com/89288570/130314037-bcdc883a-ccb6-41b7-b93c-6c11c0fd8a14.png)
+
 ## Diagrama Entidad-Relación
 
 ![Screen Shot 2021-08-21 at 1 08 26](https://user-images.githubusercontent.com/71417348/130313269-f360005c-7cee-4a63-a65e-4d944622f3e7.png)
